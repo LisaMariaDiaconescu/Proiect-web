@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proiect1firebase-7144e": {
+      "hosting": {
+        "AngularQuizApp": [
+          "proiect1firebase-7144e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proiect1firebase-7144e"
+  }
+}

@@ -1,0 +1,55 @@
+.width-100perc
+{
+    width:100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.pozafata{
+    width: 100%;
+    height: 200px;
+}
+
+.inline
+{
+    display:inline;
+}
+
+.mini{
+  
+    text-shadow: 2px 2px 4px #6bdef0;
+    font-size: 22px;
+}
+
+.umbra{
+  
+    text-shadow: 2px 2px 4px #518064;
+}
+
+button:hover {
+  background-color: rgba(60, 9, 64, 0.349);
+}
+  
+.container {
+    max-width: 980px;
+
+  }
+  
+  h1 {
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+  }
+
+
+  .container{
+    padding: 30px;
+    border-radius: 20px;
+}
